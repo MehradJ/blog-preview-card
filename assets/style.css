@@ -23,10 +23,20 @@ main {
   border-radius: 1rem;
   max-width: 20rem;
 }
+main img{
+  border-radius: 5px;
+}
 
 p {
   color: var(--Gray500);
   line-height: 1.5;
+}
+a{
+  text-decoration: none;
+  color: var(--Gray950);
+}
+a:hover{
+  color: var(--Yellow);
 }
 
 .author {
