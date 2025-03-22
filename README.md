@@ -1,4 +1,4 @@
-# Blog Preview Card
+# Blog Preview Card (For Newbies)
 
 This is a **Blog Preview Card** component built with **HTML & CSS**. It is designed to display a simple blog preview with an image, title, description, and author information.
 
@@ -28,7 +28,7 @@ This is a **Blog Preview Card** component built with **HTML & CSS**. It is desig
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/blog-preview-card.git
+   git clone https://github.com/MehradJ/blog-preview-card.git
    ```
 2. Open `index.html` in a web browser.
 
@@ -38,7 +38,7 @@ This is how the blog preview card looks:
 ![Blog Preview Card](assets/images/Screenshot.png)
 
 ## 🌐 Live Demo
-Check out the live version here: [Blog Preview Card](https://mehradj.github.io/blog-preview-card-main/)
+Check out the live version here: [Blog Preview Card](https://mehradj.github.io/blog-preview-card/)
 
 ## 📝 Author
 - **Mehrad Jafari**
