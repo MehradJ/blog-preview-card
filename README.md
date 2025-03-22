@@ -38,7 +38,7 @@ This is how the blog preview card looks:
 ![Blog Preview Card](assets/images/Screenshot.png)
 
 ## 🌐 Live Demo
-Check out the live version here: [Blog Preview Card](https://mehradj.github.io/blog-preview-card-main/)
+Check out the live version here: [Blog Preview Card](https://mehradj.github.io/blog-preview-card/)
 
 ## 📝 Author
 - **Mehrad Jafari**
